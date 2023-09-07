@@ -1,4 +1,3 @@
-<!-- loio27947dfb325047018603446439050a6b -->
 
 # System Integration Guide for SAP Cloud Identity Services
 
